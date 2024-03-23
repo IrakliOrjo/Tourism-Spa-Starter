@@ -9,7 +9,7 @@ export default {
     },
     extend: {
       backgroundImage: {
-        "hero-pattern": "url('./assets/1.avif')",
+        "hero-pattern": "url('./assets/1.png')",
         "hero-fuji": "url('./assets/mal.avif')",
         "footer-texture": "url('/img/footer-texture.png')",
       },
